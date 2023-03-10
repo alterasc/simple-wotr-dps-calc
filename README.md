@@ -1,29 +1,36 @@
-# JupyterLite Demo
+# Simple Pathfinder CRPG damage calculator
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Jupyter notebook for some simple dps calculation and comparison
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Link for users: https://alterasc.github.io/simple-wotr-dps-calc/lab?path=dps-calculator.ipynb
 
-## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## Permissions
 
-## Requirements
+The following license ONLY applies to file content/dps-calculator.ipynb 
 
-JupyterLite is being tested against modern web browsers:
+MIT License
 
-- Firefox 90+
-- Chromium 89+
+Copyright (c) 2023 AlterAsc
 
-## Deploy your JupyterLite website on GitHub Pages
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Further Information and Updates
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-For more info, keep an eye on the JupyterLite documentation:
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+This license DOES NOT APPLY to files created as result of creating this project from jupyterlite/demo template
